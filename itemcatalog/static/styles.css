@@ -1,0 +1,146 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+	/*this color is taupeish*/
+	color: #c4ac98;
+	line-height: 60px;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 24px;
+	color: #415d87;
+	line-height: 29px;
+}
+
+h3 {
+	font-size: 18px;
+	color: #c4ac98;
+	line-height: 23px;
+}
+ p {
+ 	font-family: 'Lato', sans-serif;
+ 	font-size: 16px;
+ 	color: #c4ac98;
+ 	line-height: 24px;
+ 	font-weight: 400;
+ }
+
+ strong {
+ 	font-size: 16px;
+ 	color: #Ac534f;
+ 	line-height: 24px;
+ }
+
+ a {
+ 	font-size: 14px;
+ 	color: #Ac534f;
+ 	line-height: 17px;
+ }
+.padding-top {
+	padding-top: 30px;
+}
+.padding-bottom {
+	padding-bottom: 30px;
+}
+.margin-right {
+	margin-right: 30px;
+}
+.padding-none {
+	padding: 0;
+}
+.btn {
+	padding: 20px;
+	margin: 0;
+	border-color: #Ac534f;
+	border-width: 2px;
+	color: #Ac534f;
+}
+.btn:hover {
+	border-color: #Ac534f;
+}
+.btn.delete {
+	border-color: #ac534f;
+	color: #ac534f;
+}
+.btn.delete:hover {
+	border-color: #aaaaaa;
+	color: red;
+}
+.glyphicon {
+	margin-right: 10px;
+}
+.top-menu {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.top-menu p {
+	margin-bottom: 0;
+	line-height: 16px;
+}
+.top-menu a {
+	margin-bottom: 0;
+	line-height: 16px;
+	font-size: 16px;
+	color: #Ac534f;
+	font-weight: 400;
+}
+.divider {
+	height: 15px;
+}
+
+.divider.blue {
+	background-color: #b5c8dc;
+}
+.divider.green {
+	background-color: #b5c8dc;
+}
+.banner.main {
+	height: 150px;
+	background-color: #263858;
+}
+.banner.menu {
+	height: 150px;
+	background-color: #263858;
+}
+.banner.profile {
+	height: 150px;
+	background-color: #A6E8EB;
+}
+.banner h1 {
+	margin: 45px 0;
+}
+ .restaurant-list {
+ 	background-color: #263858;
+ 	padding: 20px;
+u }
+ .restaurant-list:hover {
+ 	background-color: #415d87;
+ 	padding: 20px;
+}
+.menu-item {
+	background: #263858;
+	padding: 20px;
+	margin: 20px;
+	margin-left: -20px;
+}
+.menu-price {
+	font-weight: 700;
+}
+
+.flash {
+	background-color: #b5c8dc;
+	width:100%;
+	text-decoration: none;
+}
+
+.flash li {
+	list-style-type: none;
+	text-align: center;
+
+}
